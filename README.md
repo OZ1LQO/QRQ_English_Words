@@ -15,7 +15,7 @@ documentation for ebook2cw to learn about it. You can easily use it stand-alone 
 (I guess it was meant for that). Once you know more about it, you can alter my code and add
 more functionality.
 
-The code is best run in it's own window, simply double click it.
+The code is best run in it's own window, simply double click it..
 
 This is my first version, feel free to play around and change/use it if you want.
 There may be updates. Maybe.
